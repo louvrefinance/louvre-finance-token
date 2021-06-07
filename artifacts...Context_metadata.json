@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"louvre.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"louvre.sol": {
+			"keccak256": "0x8212809ddea824f3439a27eea61e373ba580be495b487a3405f47399980801ec",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://0a1882275811a0033627578d0fb06f2f53ca2088cbac3e0c32d894e7ef710e0d",
+				"dweb:/ipfs/QmZDQJ3aXwNg2iCtRfbfuan3DZrU9UyTP5dWBt4gdee8PU"
+			]
+		}
+	},
+	"version": 1
+}
